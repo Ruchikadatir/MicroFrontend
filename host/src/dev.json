@@ -1,0 +1,6 @@
+{
+    "donutChartEndpoint":"https://prometheus.mba.ab-inbev.com/donut",
+    "lineChartEndpoint":"https://prometheus.mba.ab-inbev.com/line",
+    "barChartEndpoint": "https://prometheus.mba.ab-inbev.com/bar",
+    "histogramChartEndpoint":"https://prometheus.mba.ab-inbev.com/histogram"
+}
